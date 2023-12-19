@@ -381,7 +381,7 @@ int main(void) {
     Rooms[0][0] = 0; Rooms[0][1] = 0; Rooms[0][2] = 0; Rooms[1][0] = 2; Rooms[1][1] = 5; Rooms[1][2] = 8; Rooms[2][0] = 1; Rooms[2][1] = 3;
     Rooms[2][2] = 10; Rooms[3][0] = 2; Rooms[3][1] = 4; Rooms[3][2] = 12; Rooms[4][0] = 3; Rooms[4][1] = 5; Rooms[4][2] = 14; Rooms[5][0] = 1;
     Rooms[5][1] = 4; Rooms[5][2] = 6; Rooms[6][0] = 5; Rooms[6][1] = 7; Rooms[6][2] = 15; Rooms[7][0] = 6; Rooms[7][1] = 8; Rooms[7][2] = 17;
-    Rooms[8][0] = 2; Rooms[8][1] = 5; Rooms[8][2] = 8; Rooms[9][0] = 8; Rooms[9][1] = 10; Rooms[9][2] = 18; Rooms[10][0] = 2; Rooms[10][1] = 9;
+    Rooms[8][0] = 1; Rooms[8][1] = 7; Rooms[8][2] = 9; Rooms[9][0] = 8; Rooms[9][1] = 10; Rooms[9][2] = 18; Rooms[10][0] = 2; Rooms[10][1] = 9;
     Rooms[10][2] = 11; Rooms[11][0] = 10; Rooms[11][1] = 12; Rooms[11][2] = 19; Rooms[12][0] = 3; Rooms[12][1] = 11; Rooms[12][2] = 13;
     Rooms[13][0] = 12; Rooms[13][1] = 14; Rooms[13][2] = 20; Rooms[14][0] = 4; Rooms[14][1] = 13; Rooms[14][2] = 15; Rooms[15][0] = 6;
     Rooms[15][1] = 14; Rooms[15][2] = 16; Rooms[16][0] = 15; Rooms[16][1] = 17; Rooms[16][2] = 20; Rooms[17][0] = 7; Rooms[17][1] = 16;
