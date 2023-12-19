@@ -51,10 +51,14 @@ Welcome to "Hunt the Wumpus"! This is a complete text-based adventure game that 
 </pre>
 </div>
 
+ 
+    
 -  **Hazards Detection:** Be alert to detect hazards:
     - **Stench:** Indicates the presence of the Wumpus in an adjacent room.
     - **Draft:** Signals the proximity of a bottomless pit in an adjacent room.
     - **Bat Sounds:** Warns you of nearby bats in an adjacent room that might transport you to a different room.
+ 
+    
 - **Interaction with Hazards:** Various events occur when encountering hazards:
     - Falling into a pit results in instant death.
     - Encountering the Wumpus leads to different outcomes based on how it's feeling (50% it might kill you and 50% it may run away in an adjacent room).
@@ -74,7 +78,7 @@ Welcome to "Hunt the Wumpus"! This is a complete text-based adventure game that 
   For Example:
   ```
   Enter the room locations (1..20) for player, wumpus, pit1, pit2, bats1, bats2, and arrow: 
-  Enter the new room number for player: ...ENTER ROOM NUMBER HERE THEN PRESS ENTER...
+  Enter the new room number for player: ...ENTER ROOM NUMBER HERE THEN PRESS ENTER TO CHANGE THE NEXT ELEMENT...
   ```
 - C - Cheat: Enter 'C' to display the current positions of game elements.
 - D - Directions: Enter 'D' to display the instructions and game controls.
@@ -109,7 +113,7 @@ When you execute the program, follow these steps to interact with the game:
 - For example: ./hunt_the_wumpus
 
 3. Follow Game Instructions:
-- You'll receive instructions on how to play the game by entering 'D' as soon as you run the executable or follow the game instructions outlined in this ReadMe.md
+- You'll receive instructions on how to play the game by entering 'D' as soon as you run the executable or you can follow the game instructions outlined in this ReadMe.md
 - Enter commands accordingly and follow the prompts to interact with the game environment.
 
 Note: This README provides an overview of the game and its functionalities. Detailed explanations of the code's working and comments are present within the source code for reference and understanding.
